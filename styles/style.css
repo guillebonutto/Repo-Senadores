@@ -1,0 +1,145 @@
+.div-header {
+	display: flex;
+	justify-content: space-between;
+	margin: 1rem;
+	font-style: italic;
+	font-family: "Sriracha", cursive;
+	font-weight: bold;
+}
+
+.sub-header {
+	display: flex;
+}
+
+.mail {
+	display: flex;
+	align-items: center;
+	margin-right: 1rem;
+}
+
+a {
+	font-family: cursive;
+	color: rgb(70, 206, 255);
+}
+
+.titulo {
+	font-family: cursive;
+	color: black;
+	text-decoration: none;
+}
+
+.titulo:hover {
+	color: black;
+}
+
+.card-footer {
+	display: flex;
+	justify-content: center;
+	font-family: "Sriracha", cursive;
+	font-size: 1rem;
+}
+
+footer {
+	border: 1px solid black;
+}
+
+nav {
+	margin-left: 0.05rem;
+	border: 1px solid black;
+	font-family: "Praise", cursive;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: "Dancing Script", cursive;
+}
+
+.container {
+	font-family: "Playball", cursive;
+	margin-left: 4rem;
+	margin-right: 0rem;
+	margin-top: 4.5rem;
+}
+
+.encabezado {
+	display: flex;
+}
+
+.container-1 {
+	/* display: flex;
+	align-items: center;
+	justify-content: space-around; */
+	font-family: "Playball", cursive;
+	/* margin-top: 4rem; */
+}
+
+p {
+	text-indent: 30px;
+	margin-left: 1rem;
+	font-family: "EB Garamond", serif;
+	width: 40rem;
+}
+
+thead {
+	font-family: "Dancing Script", cursive;
+}
+
+.link-correo {
+	padding-left: 0.5rem;
+}
+
+.navbar {
+	padding: 0rem;
+}
+
+.bhome {
+	background-color: darkgray;
+	margin-left: -1rem;
+	width: 4.5rem;
+	text-align: center;
+	height: 3rem;
+}
+
+.bhouse {
+	background-color: darkgray;
+}
+
+.bsenate {
+	background-color: darkgray;
+}
+
+.filtro {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.checkbox {
+	display: flex;
+}
+
+.form-check-label {
+	width: 1.5rem;
+}
+
+.btn {
+	margin-top: 3.03rem;
+	margin-bottom: 3.03rem;
+}
+
+.card {
+	border: 1px solid #fff;
+}
+
+.collapse {
+	margin-bottom: 1rem;
+}
+
+.pt-5 {
+	display: flex;
+}
+
+.tablas {
+	display: flex;
+	justify-content: space-around;
+}
